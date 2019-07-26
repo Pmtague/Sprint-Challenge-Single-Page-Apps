@@ -38,3 +38,9 @@ header h1 {
   text-align: center;
 
 }
+
+.episode-card {
+  display: flex;
+  flex-flow: row wrap;
+  width: 49%;
+}
